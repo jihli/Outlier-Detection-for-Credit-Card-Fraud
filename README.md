@@ -8,7 +8,7 @@ Part 3 Data Transformation
 
 Part 4 Makeup of Train/Validation/Test Data
 
-Part 5 Using Validation dataset to find the best threshold (Employee probability_Based model)
+Part 5 Using Validation dataset to find the best threshold (Employ probability_Based model)
 
 Part 6 Predict outliers on test data
 
